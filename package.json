@@ -16,11 +16,13 @@
   "license": "MIT",
   "dependencies": {
     "@nuxt/content": "^1.15.1",
-    "nuxt": "^2.15.8"
+    "nuxt": "^2.15.8",
+    "typescript": "^4.8.3"
   },
   "devDependencies": {
     "@nuxtjs/color-mode": "^2.1.1",
     "@nuxtjs/pwa": "^3.3.5",
+    "@nuxtjs/supabase": "^0.1.25",
     "@nuxtjs/svg": "^0.4.0",
     "@nuxtjs/tailwindcss": "^5.3.3",
     "eslint": "^8.23.1",
